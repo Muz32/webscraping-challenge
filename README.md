@@ -7,6 +7,22 @@ Under this delieverable I extracted new articles from a given website and stored
 # Deliverable 2: Scrape and analyse Mars weather data (from a table)
 I scraped a table containing Mars temperature data, stored it into a python dictionary and then transfered the data into a pandas data frame. The different column data was then converted into appropriate data types for further analysis.
 
+The analysis provides the following insights:
+
+- Months on Mars
+- Martian Days in Dataset
+- Temperature Analysis:
+  - Coldest and Warmest Months: By calculating the average minimum daily temperature for each month, we can identify the coldest and warmest periods.
+  - Temperature Plot: A bar chart visualizing the average temperatures across Martian months.
+
+- Atmospheric Pressure:
+  - Lowest and Highest Pressure: The average daily atmospheric pressure is computed for each month to find the months with the lowest and highest pressure.
+  - Pressure Plot: A bar chart displays the pressure trends over the Martian months.
+
+- Martian Year:visual estimate terrestrial days in a Martian year.
+
+Visualizations such as bar charts for temperature and pressure provide a clear representation of the climate trends on Mars.
+
 
 ## Websites used for scraping data
 https://static.bc-edx.com/data/web/mars_news/index.html
