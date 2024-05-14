@@ -15,8 +15,8 @@ https://static.bc-edx.com/data/web/mars_facts/temperature.html
 The above websites are operated by edX Boot Camps LLC. 
 
 ## Files
-`part_1_mars_news.ipynb`
-`part_2_mars_weather.ipynb`
+-`part_1_mars_news.ipynb`
+-`part_2_mars_weather.ipynb`
   - `Output`
-      -`mars_temperature_df.csv`
-      -`NASA_news`.json
+    -`mars_temperature_df.csv`
+    -`NASA_news`.json
