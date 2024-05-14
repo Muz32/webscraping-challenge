@@ -23,10 +23,6 @@ The data analysis was performed using Pandas functions and Matplotlib, which pro
 
 Visualizations such as bar charts for temperature and pressure are included to provide a clear representation of the climate trends on Mars.
 
-
-## Websites used for scraping data
--https://static.bc-edx.com/data/web/mars_news/index.html
--https://static.bc-edx.com/data/web/mars_facts/temperature.html
 ## Websites Used for Scraping Data
 - [Mars News: Website containing the latest news articles about Mars.](https://static.bc-edx.com/data/web/mars_news/index.html)
 - [Mars Temperature Data: Website with a table of Mars temperature data.](https://static.bc-edx.com/data/web/mars_facts/temperature.html)
