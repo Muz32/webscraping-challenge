@@ -27,7 +27,14 @@ Visualizations such as bar charts for temperature and pressure are included to p
 - [Mars News: Website containing the latest news articles about Mars](https://static.bc-edx.com/data/web/mars_news/index.html)
 - [Mars Temperature Data: Website with a table of Mars temperature data](https://static.bc-edx.com/data/web/mars_facts/temperature.html)
 
-The above websites are operated by edX Boot Camps LLC. 
+## Python Packages Used
+The following Python packages were installed in my Jupyter Notebook environment to complete this assignment challenge:
+
+- `splinter[selenium4]`: Used for browser automation and interaction with dynamic web pages.
+- `bs4` (Beautiful Soup 4): Utilized for parsing HTML and XML documents to extract data.
+- `html5lib`: A Python library for parsing HTML data.
+- `lxml`: Another library for processing XML and HTML in Python.
+- `selenium`: Used for automating web browsers and performing web scraping tasks that require JavaScript execution.
 
 ## Files
 - `part_1_mars_news.ipynb`: Notebook containing the web scraping code for Mars news.
